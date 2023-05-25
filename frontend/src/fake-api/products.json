@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "some title",
+            "subTitle": "CORETECFtt Title",
+            "isAvailable": false,
+            "price": "235$"
+        },
+        {
+            "id": "2",
+            "title": "some title1",
+            "subTitle": "CORETECFtt Title1",
+            "isAvailable": true,
+            "price": "53$"
+        },
+        {
+            "id": "3",
+            "title": "some title2",
+            "subTitle": "CORETECFtt Title2",
+            "isAvailable": false,
+            "price": "894$"
+        },
+        {
+            "id": "4",
+            "title": "some title3",
+            "subTitle": "CORETECFtt Title3",
+            "isAvailable": true,
+            "price": "545$"
+        },
+        {
+            "id": "5",
+            "title": "some title4",
+            "subTitle": "CORETECFtt Title4",
+            "isAvailable": true,
+            "price": "5333$"
+        }
+    ]
+}
